@@ -1,3 +1,5 @@
-public class RepordutorMusical extends Iphone {
-
+public interface ReprodutorMusical  {
+    public void tocar();
+    public void pausar();
+    public void selecionarMusica();
 }

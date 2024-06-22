@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class AparelhoTelefonico {
+public interface AparelhoTelefonico  {
+
+
+    void ligar();
+    void atender();
+    void correioDeVoz();
 }
